@@ -1,198 +1,171 @@
-::: {align="center"}
+
+<div align="center">
+
 # 🔗 LinkedIn Talent Analytics Dashboard
 
-### Turning talent and recruitment data into interactive insights with Power BI
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3000&color=0A66C2&center=true&vCenter=true&width=850&lines=LinkedIn+Talent+Analytics;Interactive+Power+BI+Dashboard;Transforming+Data+Into+Insights" />
 
-**An interactive data visualization project for exploring talent-related
-metrics, audience demographics, performance, and recruitment data.**
-:::
+<br>
 
-------------------------------------------------------------------------
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Data Analytics](https://img.shields.io/badge/Data-Analytics-0A66C2?style=for-the-badge)
+![Dashboard](https://img.shields.io/badge/Interactive-Dashboard-6C63FF?style=for-the-badge)
 
-## 📌 About the Project
+### 📊 Exploring Talent, Performance, Audience & Recruitment Data
 
-The **LinkedIn Talent Analytics Dashboard** is a Power BI portfolio
-project designed to organize talent-related data into clear, interactive
-report pages. It aims to make information easier to explore through
-visual summaries, filters, and performance-focused views.
+</div>
 
-This project demonstrates dashboard design, data visualization, and the
-presentation of data in a way that can support exploration and
-decision-making.
+---
 
-> **Project note:** Dataset details, exact KPIs, and findings should be
-> added after they are verified in the report. No unverified metrics or
-> business outcomes are claimed here.
+# 📌 Overview
 
-## 🎯 Project Objectives
+The **LinkedIn Talent Analytics Dashboard** is an interactive Power BI project designed to explore talent-related data through visualizations and organized report pages.
 
--   Present talent-related data through an organized, interactive
-    dashboard.
--   Make key information easier to explore using visuals and filters.
--   Separate the report into focused pages for easier navigation.
--   Practice Power BI reporting and data visualization skills.
+The dashboard presents data in a structured format, making it easier to explore performance, audience demographics, and recruitment-related information.
 
-## 🧭 Dashboard Pages
+---
 
-  -----------------------------------------------------------------------
-  Page                                Purpose
-  ----------------------------------- -----------------------------------
-  🏠 **Home**                         Landing page and navigation into
-                                      the report.
+# ✨ Dashboard Features
 
-  📊 **Overview**                     High-level view of the information
-                                      available in the dataset.
+✅ Interactive Power BI report
 
-  📈 **Current Performance**          Performance-focused visual
-                                      analysis.
+✅ Overview and performance analysis
 
-  👥 **Audience Demographics**        Exploration of audience or
-                                      demographic attributes available in
-                                      the data.
+✅ Audience demographics analysis
 
-  🎯 **Recruitment**                  Recruitment-related analysis based
-                                      on the available dataset.
-  -----------------------------------------------------------------------
+✅ Recruitment analytics
 
-*Page descriptions should be adjusted to match the final report and the
-fields actually present in the dataset.*
+✅ Visual representation of available data
 
-## 🛠️ Tools & Technologies
+✅ Organized report pages for easier navigation
 
--   **Microsoft Power BI** --- report development and interactive
-    visualizations
--   **Data visualization** --- visual presentation of trends and
-    comparisons
--   **Data analysis** --- exploring the available dataset and its
-    metrics
+> Update these features to match the actual visuals and filters in your dashboard.
 
-## 🖼️ Dashboard Preview
+---
 
-Add screenshots exported from Power BI to the `Dashboard-Screenshots/`
-folder, then update the image paths below.
+# 🛠️ Tools Used
 
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}📊 Overview`</strong>`{=html} --- click to expand
-```{=html}
-</summary>
-```
-![Dashboard Overview](Dashboard-Screenshots/overview.png)
+- 📊 Microsoft Power BI
+- 📈 Data Visualization
+- 📋 Dashboard Design
+- 🔎 Data Analysis
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}📈 Current Performance`</strong>`{=html} --- click to
-expand
-```{=html}
-</summary>
-```
-![Current Performance](Dashboard-Screenshots/current-performance.png)
+---
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}👥 Audience Demographics`</strong>`{=html} --- click to
-expand
-```{=html}
-</summary>
-```
-![Audience
-Demographics](Dashboard-Screenshots/audience-demographics.png)
+# 📸 Dashboard Preview
 
-```{=html}
-</details>
-```
-```{=html}
-<details>
-```
-```{=html}
-<summary>
-```
-`<strong>`{=html}🎯 Recruitment`</strong>`{=html} --- click to expand
-```{=html}
-</summary>
-```
-![Recruitment Dashboard](Dashboard-Screenshots/recruitment.png)
+<div align="center">
 
-```{=html}
-</details>
-```
-## 🔍 Key Analysis Areas
+<img src="./Dashboard-Screenshots/overview.png" width="1000" alt="LinkedIn Talent Analytics Dashboard">
 
-The report is organized to explore the following areas, where supported
-by the dataset:
+</div>
 
--   Talent and performance-related metrics
--   Audience or demographic breakdowns
--   Recruitment-related patterns
--   Comparisons across available categories and dimensions
+---
 
-### 📌 Key Findings
+# 📊 Dashboard Pages
 
-*Add verified findings here after reviewing the dashboard. For each
-finding, include the metric or comparison, what it shows, and why it
-matters. Avoid adding numbers that cannot be confirmed from the report.*
+### 🔹 Overview
 
-## 📂 Repository Structure
+Provides a high-level view of the information available in the dataset.
 
-``` text
+### 🔹 Current Performance
+
+Presents performance-related information through dashboard visuals.
+
+### 🔹 Audience Demographics
+
+Helps explore audience and demographic attributes available in the dataset.
+
+### 🔹 Recruitment
+
+Presents recruitment-related information supported by the available data.
+
+---
+
+# 🔍 Key Insights
+
+Add your actual findings from the dashboard here.
+
+- 📈 **Performance Insight:** Add a verified performance finding.
+- 👥 **Audience Insight:** Add a verified audience or demographic finding.
+- 🎯 **Recruitment Insight:** Add a verified recruitment finding.
+
+*Replace these examples with insights and values confirmed in Power BI.*
+
+---
+
+# 📂 Project Structure
+
+```text
 LinkedIn-Talent-Analytics-Dashboard/
-├── README.md
+│
 ├── LinkedIn-Talent-Analytics.pbix
-└── Dashboard-Screenshots/
-    ├── overview.png
-    ├── current-performance.png
-    ├── audience-demographics.png
-    └── recruitment.png
+├── Dashboard-Screenshots/
+│   ├── overview.png
+│   ├── current-performance.png
+│   ├── audience-demographics.png
+│   └── recruitment.png
+│
+└── README.md
 ```
 
-*The filenames above are suggested examples. Rename them to match the
-files you upload.*
+---
 
-## 🚀 How to View the Dashboard
+# 🚀 Getting Started
 
-1.  Download or clone this repository.
-2.  Open the `.pbix` report using **Microsoft Power BI Desktop**.
-3.  Navigate through the report pages.
-4.  Explore the visuals and available filters.
+### Clone the Repository
 
-If you include the original dataset, make sure it is permitted for
-public sharing and remove any confidential or personal information
-first.
+```bash
+git clone https://github.com/Abi-1429/LinkedIn-Talent-Analytics-Dashboard.git
+```
 
-## 🌱 Future Enhancements
+### Open the Dashboard
 
--   Add verified KPIs and concise business insights.
--   Include screenshots of each report page.
--   Document the dataset source and data preparation steps.
--   Add a short dashboard walkthrough or demo link, if available.
+1. Install Microsoft Power BI Desktop.
+2. Clone or download this repository.
+3. Open `LinkedIn-Talent-Analytics.pbix`.
+4. Explore the available report pages and visualizations.
 
-## 👩‍💻 Author
+---
 
-**Abirami M**\
-Aspiring Data Analyst \| Power BI \| SQL \| Python \| Excel \| Tableau
+# 🔄 Dashboard Workflow
 
-------------------------------------------------------------------------
+```mermaid
+flowchart LR
+    A[Source Dataset] --> B[Data Preparation]
+    B --> C[Power BI Dashboard]
+    C --> D[Overview]
+    C --> E[Current Performance]
+    C --> F[Audience Demographics]
+    C --> G[Recruitment]
+    D --> H[Data Exploration]
+    E --> H
+    F --> H
+    G --> H
+```
 
-::: {align="center"}
-**Thanks for visiting this project!** ⭐
+---
 
-If you find this project useful, feel free to star the repository.
-:::
+# 👩‍💻 Author
+
+<div align="center">
+
+# 🌸 M ABIRAMI
+
+### Aspiring Data Analyst | Power BI | SQL | Python | Excel | Tableau
+
+<a href="https://github.com/Abi-1429">
+<img src="https://img.shields.io/badge/GitHub-Abi--1429-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ If you find this project useful, consider giving the repository a star!
+
+Made with ❤️ by **M ABIRAMI**
+
+</div>
