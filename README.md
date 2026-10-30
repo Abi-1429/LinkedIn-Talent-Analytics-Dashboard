@@ -56,7 +56,7 @@ The dashboard presents data in a structured format, making it easier to explore 
 
 <div align="center">
 
-<img src="./Dashboard-Screenshots/overview.png" width="1000" alt="LinkedIn Talent Analytics Dashboard">
+<img src="./Dashboard-Screenshots/home.jpeg" width="1000" alt="LinkedIn Talent Analytics Dashboard">
 
 </div>
 
